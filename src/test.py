@@ -1,12 +1,12 @@
 import os
 import sys
-import cv2
 import numpy as np
 
 def test():
-    print("test")
-    if __name__ == '__main__':
-        test()
+    print("hello world")
 
-def main():
-    print("main")
+def test2():
+    pass
+
+if __name__ == '__main__':
+    test()
